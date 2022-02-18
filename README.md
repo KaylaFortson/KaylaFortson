@@ -1,5 +1,5 @@
 <img src="kayla_banner.png"> 
-<div align="center">Full-time student with a passion for coding 💻 and uplifting minorities  in STEM 🤎</div>  
+<div align="center">Full-time student with a passion for coding 💻, community service 🌎, and uplifting minorities in STEM 🤎</div>  
   
 
 - 🌆 From Los Angeles, California  
@@ -8,10 +8,10 @@
 - 📚 Posse Foundation Scholar  
   
 
-- 🌷Member of the illustrious sorority of Alpha Kappa Alpha Sorority, Inc.   
+- 🌷 Member of the illustrious sorority of Alpha Kappa Alpha Sorority, Inc.   
   
 
-- 🌎Microsoft TEALS Volunteer  
+- 👩‍💻 Microsoft TEALS Volunteer  
   
 
 - 👩‍🏫 Student Instructor for Foundations of Programming in Python  
@@ -37,6 +37,12 @@
 
 
 ## Connect with me  
+<br/>  
+
+<img src="collage.png">
+
+<br/> 
+
 <div align="center">
 <a href="https://github.com/KaylaFortson" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -46,8 +52,6 @@
 </a>  
 </div>  
   
-
-<br/>  
 
 <div align="center">
             <a href="https://paypal.me/kaylafortson" target="_blank" style="display: inline-block;">
