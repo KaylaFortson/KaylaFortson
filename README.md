@@ -1,6 +1,7 @@
 <img src="kayla_banner.png"> 
 <div align="center">Full-time student with a passion for coding 💻, community service 🌎, and uplifting minorities in STEM 🤎</div>  
   
+- 💻 Oracle Cloud Infrastructure Software Engiener Intern
 
 - 🌆 From Los Angeles, California  
   
